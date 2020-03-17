@@ -5,7 +5,7 @@ body {
 	margin-right: auto;
 	margin-bottom: 00px;
 	margin-left: auto;
-        background-image: url(http://www.jrjimenez.com/images/188.jpg);
+        background-image: url(https://www.jrjimenez.com/images/188.jpg);
         background-repeat: repeat-x;
         background-position: 49px 159px;
         z-index: 1;
@@ -20,7 +20,7 @@ body#jardin-page {
 	margin-right: auto;
 	margin-bottom: 00px;
 	margin-left: auto;
-        background-image: url(http://www.jrjimenez.com/images/213.jpg);
+        background-image: url(https://www.jrjimenez.com/images/213.jpg);
         background-repeat: repeat-x;
         background-position: 49px 159px;
         z-index: 1;
@@ -34,7 +34,7 @@ body#jardin-page {
 
 
 p { font-family: 'Abel', sans-serif;
-	@import url(http://fonts.googleapis.com/css?family=Abel);
+	@import url(https://fonts.googleapis.com/css?family=Abel);
 	font-size: 16px;
 	color: #002F5E;
 }
@@ -72,14 +72,14 @@ summary {
 }
 
 #copete {
-	background-image: url(http://www.jrjimenez.com/js/img/copete.jpg);
+	background-image: url(https://www.jrjimenez.com/js/img/copete.jpg);
 	background-repeat: repeat-x;
 	height: 161px;
 	width: 100%;
 	z-index: 5;
 }
 #copete2 {
-	background-image: url(http://www.jrjimenez.com/images/214.jpg);
+	background-image: url(https://www.jrjimenez.com/images/214.jpg);
 	background-repeat: repeat-x;
 	height: 161px;
 	width: 100%;
@@ -200,7 +200,7 @@ top: -16px;
 
 
 #pie {
-	background-image: url(http://www.jrjimenez.com/js/img/fondo-pie.jpg);
+	background-image: url(https://www.jrjimenez.com/js/img/fondo-pie.jpg);
 	background-repeat: repeat;
 	color: #FFFFFF;
 	clear: both;

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xml:lang="es-es" xmlns="http://www.w3.org/2005/Atom"><title type="text">Instituto Juan Ramón Jiménez - Nivel Secundario</title>
+<feed xml:lang="es-es" xmlns="https://www.w3.org/2005/Atom"><title type="text">Instituto Juan Ramón Jiménez - Nivel Secundario</title>
 <subtitle type="text">educación</subtitle>
-<link rel="self" href="http://www.jrjimenez.com/atom/?section=nivel-secundario" />
-<link rel="alternate" type="text/html" href="http://www.jrjimenez.com/" />
+<link rel="self" href="https://www.jrjimenez.com/atom/?section=nivel-secundario" />
+<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/" />
 <id>tag:www.jrjimenez.com,2005:caf3b878b10b982d4a235f8faf4a46c1/nivel-secundario</id>
-<generator uri="http://textpattern.com/" version="4.5.7">Textpattern</generator>
+<generator uri="https://textpattern.com/" version="4.5.7">Textpattern</generator>
 <updated>2016-02-24T19:44:28Z</updated>
 <author>
 		<name>open</name>
 		<email>&#114;&#97;&#109;&#105;&#114;&#111;&#115;&#97;&#99;&#99;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</email>
-		<uri>http://www.jrjimenez.com/</uri>
+		<uri>https://www.jrjimenez.com/</uri>
 </author>
 
 <entry>
@@ -19,7 +19,7 @@
 		<published>2015-11-30T15:20:04Z</published>
 		<updated>2015-11-30T15:20:04Z</updated>
 		<title type="html">Himno Instituto Juan R. Jiménez</title>
-		<link rel="alternate" type="text/html" href="http://www.jrjimenez.com/nivel-secundario/159/himno-instituto-juan-r-jimenez" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/nivel-secundario/159/himno-instituto-juan-r-jimenez" />
 		<id>tag:www.jrjimenez.com,2015-11-30:caf3b878b10b982d4a235f8faf4a46c1/da89cd9374e114deab1697bdf2a233a6</id>
 		
 		
@@ -34,7 +34,7 @@
 		<published>2015-03-09T18:49:55Z</published>
 		<updated>2015-03-12T16:18:29Z</updated>
 		<title type="html">Características y Funcionamiento</title>
-		<link rel="alternate" type="text/html" href="http://www.jrjimenez.com/nivel-secundario/143/caracteristicas-y-funcionamiento" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/nivel-secundario/143/caracteristicas-y-funcionamiento" />
 		<id>tag:www.jrjimenez.com,2015-03-09:caf3b878b10b982d4a235f8faf4a46c1/9d8e2d2b0fb9a26c31dc57c1006650f8</id>
 		
 		
@@ -713,7 +713,7 @@ sociohistórico en que se desarrollan.</p>
 		<published>2011-08-04T14:52:22Z</published>
 		<updated>2011-08-04T14:53:01Z</updated>
 		<title type="html">Perfil Del Egresado Del Nivel Secundario Del Instituto Juan Ramón Jiménez</title>
-		<link rel="alternate" type="text/html" href="http://www.jrjimenez.com/nivel-secundario/23/perfil-del-egresado-del-nivel-secundario-del-instituto-juan-ramon-jimenez" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/nivel-secundario/23/perfil-del-egresado-del-nivel-secundario-del-instituto-juan-ramon-jimenez" />
 		<id>tag:www.jrjimenez.com,2011-08-04:caf3b878b10b982d4a235f8faf4a46c1/d52c390bce00f1a1bec6f42d67a2f895</id>
 		
 		
@@ -764,7 +764,7 @@ sociohistórico en que se desarrollan.</p>
 		<published>2011-07-26T15:13:52Z</published>
 		<updated>2015-03-09T18:47:44Z</updated>
 		<title type="html">Nuestro Proyecto Educativo</title>
-		<link rel="alternate" type="text/html" href="http://www.jrjimenez.com/nivel-secundario/15/nuestro-proyecto-educativo" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/nivel-secundario/15/nuestro-proyecto-educativo" />
 		<id>tag:www.jrjimenez.com,2011-07-26:caf3b878b10b982d4a235f8faf4a46c1/6ad6266b77699cf192ec249bd0c1e335</id>
 		
 		

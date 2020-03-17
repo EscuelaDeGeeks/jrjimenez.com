@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
-<channel><generator>http://textpattern.com/?v=4.5.7</generator>
+<rss version="2.0" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:content="https://purl.org/rss/1.0/modules/content/" xmlns:atom="https://www.w3.org/2005/Atom">
+<channel><generator>https://textpattern.com/?v=4.5.7</generator>
 <title>Instituto Juan Ramón Jiménez - Fundamentación pedagógica</title>
-<link>http://www.jrjimenez.com/</link>
-<atom:link href="http://www.jrjimenez.com/rss/?section=fundamentacion-pedagogica" rel="self" type="application/rss+xml" />
+<link>https://www.jrjimenez.com/</link>
+<atom:link href="https://www.jrjimenez.com/rss/?section=fundamentacion-pedagogica" rel="self" type="application/rss+xml" />
 <description>educación</description>
 <pubDate>Wed, 24 Feb 2016 19:44:28 GMT</pubDate>
 
@@ -16,7 +16,7 @@
 <p style="margin-bottom: 0cm; text-align: justify;">Permitiremos que dentro de nuestra instituci&#243;n educativa se formen sujetos cultos capaces de criticar, analizar, y trasformar el mundo en que vivimos hacia una sociedad justa, solidaria y responsable</p>
 <p>&#160;</p>]]>
 </description>
-<link>http://www.jrjimenez.com/fundamentacion-pedagogica/11/fundamentacion-pedagogica</link>
+<link>https://www.jrjimenez.com/fundamentacion-pedagogica/11/fundamentacion-pedagogica</link>
 <pubDate>Tue, 26 Jul 2011 14:04:33 GMT</pubDate>
 <dc:creator>open</dc:creator>
 <guid isPermaLink="false">tag:www.jrjimenez.com,2011-07-26:caf3b878b10b982d4a235f8faf4a46c1/0c77bed1b53624f76c78dcd7383c8455</guid>
