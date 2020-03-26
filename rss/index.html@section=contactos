@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:content="https://purl.org/rss/1.0/modules/content/" xmlns:atom="https://www.w3.org/2005/Atom">
 <channel><generator>https://textpattern.com/?v=4.5.7</generator>
 <title>Instituto Juan Ramón Jiménez - Contactos</title>
-<link>https://www.jrjimenez.com/</link>
-<atom:link href="https://www.jrjimenez.com/rss/?section=contactos" rel="self" type="application/rss+xml" />
+<link>https://www.jrjimenez.edu.ar/</link>
+<atom:link href="https://www.jrjimenez.edu.ar/rss/?section=contactos" rel="self" type="application/rss+xml" />
 <description>educación</description>
 <pubDate>Wed, 24 Feb 2020 19:44:28 GMT</pubDate>
 
@@ -27,7 +27,7 @@ E-mails: admin@jrjimenez.com<br>jrjimenez@fibertel.com.ar
 </div>
 </form>]]>
 </description>
-<link>https://www.jrjimenez.com/contactos/144/contactenos</link>
+<link>https://www.jrjimenez.edu.ar/contactos/144/contactenos</link>
 <pubDate>Tue, 10 Mar 2019 17:37:00 GMT</pubDate>
 <dc:creator>open</dc:creator>
 <guid isPermaLink="false">tag:www.jrjimenez.com,2019-03-10:caf3b878b10b982d4a235f8faf4a46c1/651680e0fae9f872e08ab5e2990141e4</guid>

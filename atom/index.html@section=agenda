@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="es-es" xmlns="https://www.w3.org/2005/Atom"><title type="text">Instituto Juan Ramón Jiménez - Agenda</title>
 <subtitle type="text">educación</subtitle>
-<link rel="self" href="https://www.jrjimenez.com/atom/?section=agenda" />
-<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/" />
+<link rel="self" href="https://www.jrjimenez.edu.ar/atom/?section=agenda" />
+<link rel="alternate" type="text/html" href="https://www.jrjimenez.edu.ar/" />
 <id>tag:www.jrjimenez.com,2005:caf3b878b10b982d4a235f8faf4a46c1/agenda</id>
 <generator uri="https://textpattern.com/" version="4.5.7">Textpattern</generator>
 <updated>2020-02-24T19:44:28Z</updated>
 <author>
 		<name>open</name>
 		<email>&#114;&#97;&#109;&#105;&#114;&#111;&#115;&#97;&#99;&#99;&#111;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</email>
-		<uri>https://www.jrjimenez.com/</uri>
+		<uri>https://www.jrjimenez.edu.ar/</uri>
 </author>
 
 <entry>
@@ -19,7 +19,7 @@
 		<published>2020-02-24T19:39:55Z</published>
 		<updated>2020-02-24T19:42:41Z</updated>
 		<title type="html">PRIMARIA - REUNION DE PADRES 25/2:  8 HS 3° AÑO;  8:30 HS 5° AÑO</title>
-		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/agenda/165/primaria-reunion-de-padres-25-2-8-hs-3-ano-830-hs-5-ano" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.edu.ar/agenda/165/primaria-reunion-de-padres-25-2-8-hs-3-ano-830-hs-5-ano" />
 		<id>tag:www.jrjimenez.com,2020-02-24:caf3b878b10b982d4a235f8faf4a46c1/5ef8441539e43adedf41afa640e8de7c</id>
 		
 		
@@ -31,7 +31,7 @@
 		<published>2019-09-02T20:28:25Z</published>
 		<updated>2019-09-02T20:30:06Z</updated>
 		<title type="html">Se suspende la Reunión de ingresantes </title>
-		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/agenda/156/se-suspende-la-reunion-de-ingresantes" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.edu.ar/agenda/156/se-suspende-la-reunion-de-ingresantes" />
 		<id>tag:www.jrjimenez.com,2019-09-03:caf3b878b10b982d4a235f8faf4a46c1/5b7a6ca7d7a177969dd6a1216967d0d3</id>
 		
 		
@@ -46,7 +46,7 @@
 		<published>2019-08-28T18:11:35Z</published>
 		<updated>2019-08-28T18:11:35Z</updated>
 		<title type="html">Reunión para ingresantes en el nivel inicial</title>
-		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/agenda/155/reunion-para-ingresantes-en-el-nivel-inicial" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.edu.ar/agenda/155/reunion-para-ingresantes-en-el-nivel-inicial" />
 		<id>tag:www.jrjimenez.com,2019-08-28:caf3b878b10b982d4a235f8faf4a46c1/4cf6efeb2bf6048051475d2dea771a65</id>
 		
 		
@@ -61,7 +61,7 @@
 		<published>2019-04-29T14:42:21Z</published>
 		<updated>2019-04-29T14:42:21Z</updated>
 		<title type="html">VENCIMIENTO CUOTA MAYO</title>
-		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/agenda/154/vencimiento-cuota-mayo" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.edu.ar/agenda/154/vencimiento-cuota-mayo" />
 		<id>tag:www.jrjimenez.com,2019-04-29:caf3b878b10b982d4a235f8faf4a46c1/b37b8038324aa5e2b7808060e45107ec</id>
 		
 		
@@ -76,7 +76,7 @@
 		<published>2019-04-16T13:26:19Z</published>
 		<updated>2019-04-16T13:26:19Z</updated>
 		<title type="html">Uniforme de invierno</title>
-		<link rel="alternate" type="text/html" href="https://www.jrjimenez.com/agenda/153/uniforme-de-invierno" />
+		<link rel="alternate" type="text/html" href="https://www.jrjimenez.edu.ar/agenda/153/uniforme-de-invierno" />
 		<id>tag:www.jrjimenez.com,2019-04-16:caf3b878b10b982d4a235f8faf4a46c1/409381332f7470204bc778a19ed6ae8e</id>
 		
 		
